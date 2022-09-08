@@ -1,6 +1,10 @@
 # Predictive Customer Churn Project
 
-## Project Scope
+# Goal:
+
+#### The goal of this project is to successfully predict when a customer may churn based on the data being collected and it's correlations to the outcome
+
+# Project Scope
 
 #### Explore the customer churn of an internet and telephone provider. This exploration includes:
 
