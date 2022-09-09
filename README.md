@@ -12,9 +12,21 @@
 + Churn Cohort Analysis
 + Predictive Machine Learning
 
-
 ## Approaches
 
 + Load up the dataset and create a predictive model
 + Create any visualizations you find useful
 + Use model preferred
+
+## Churn Analysis
+
+#### Focus
+
++ Segment customer based on tenure, creating cohorts
++ This allows us to examine the differences between customer cohort segements
+
+
+#### Approach
+
++ Find out how many unique contract types are available
++ Create a visual displaying the distribution of the tenure column, which is the amount of months a customer was or has been a customer for
